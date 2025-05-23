@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dead-server": "^1.0.9"
+  },
+  "name": "passgen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+   "dev": "dead-server --host=localhost --port=1009",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
